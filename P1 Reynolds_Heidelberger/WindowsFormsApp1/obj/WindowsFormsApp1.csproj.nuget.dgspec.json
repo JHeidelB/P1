@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\usmcj\\OneDrive\\Documents\\GitHub\\P1\\P1 Reynolds_Heidelberger\\WindowsFormsApp1\\WindowsFormsApp1.csproj": {}
+    "C:\\Users\\travi\\Desktop\\P1\\P1 Reynolds_Heidelberger\\WindowsFormsApp1\\WindowsFormsApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\usmcj\\OneDrive\\Documents\\GitHub\\P1\\P1 Reynolds_Heidelberger\\WindowsFormsApp1\\WindowsFormsApp1.csproj": {
+    "C:\\Users\\travi\\Desktop\\P1\\P1 Reynolds_Heidelberger\\WindowsFormsApp1\\WindowsFormsApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usmcj\\OneDrive\\Documents\\GitHub\\P1\\P1 Reynolds_Heidelberger\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
+        "projectUniqueName": "C:\\Users\\travi\\Desktop\\P1\\P1 Reynolds_Heidelberger\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
         "projectName": "WindowsFormsApp1",
-        "projectPath": "C:\\Users\\usmcj\\OneDrive\\Documents\\GitHub\\P1\\P1 Reynolds_Heidelberger\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
-        "packagesPath": "C:\\Users\\usmcj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usmcj\\OneDrive\\Documents\\GitHub\\P1\\P1 Reynolds_Heidelberger\\WindowsFormsApp1\\obj\\",
+        "projectPath": "C:\\Users\\travi\\Desktop\\P1\\P1 Reynolds_Heidelberger\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
+        "packagesPath": "C:\\Users\\travi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\travi\\Desktop\\P1\\P1 Reynolds_Heidelberger\\WindowsFormsApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\usmcj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\travi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
