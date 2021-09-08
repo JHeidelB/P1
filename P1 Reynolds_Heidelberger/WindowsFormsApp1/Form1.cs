@@ -17,5 +17,9 @@ namespace WindowsFormsApp1
             InitializeComponent();
         }
 
+        private void ExitProgram(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
